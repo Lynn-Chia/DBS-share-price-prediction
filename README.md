@@ -11,4 +11,4 @@ This repository contains the code for a web application that predicts DBS Bank s
 
 Before you begin, ensure you have met the following requirements:
 - Python 3.8 or higher
-- Flask
+- Flask and gunicorn packages
